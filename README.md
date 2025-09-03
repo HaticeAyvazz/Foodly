@@ -29,7 +29,10 @@ Firebase (NoSQL) kullanılarak veri tabanı yönetimi sağlanmıştır.
 Mobil uygulama için cross-platform desteği mevcuttur.
 
 
+
+
 ![Image](https://github.com/user-attachments/assets/e07ea436-499c-4e1d-bc2f-0965c1858c31)
+
 
 
 
