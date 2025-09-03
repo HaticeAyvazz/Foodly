@@ -1,6 +1,6 @@
 # 🍽️ Foodly
 
-**Foodly**, kullanıcıların yemek aramalarını kolaylaştıran bir mobil uygulamadır.  
+**Foodly**, Flutter ve Dart ile geliştirilmiş bir mobil uygulamadır.
 
 ---
 
@@ -20,13 +20,15 @@
 ## 🛠️ Teknolojiler
 
 - **Flutter & Dart** ile geliştirilmiştir.  
-- **Firebase (NoSQL)** kullanılarak veri tabanı yönetimi sağlanmıştır.  
+- **Firebase (NoSQL)** kullanılarak veri tabanı yönetimi sağlanmıştır.
+- **HTTP istekleri için Dio paketi kullanılmıştır.  
 
 ---
 
 
 
 ![Image](https://github.com/user-attachments/assets/0d1d4023-693a-4fc1-a500-2c392a956261)
+
 
 
 
