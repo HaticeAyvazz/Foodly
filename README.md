@@ -1,16 +1,30 @@
-# foodly
+🍽️ Foodly
 
-A new Flutter project.
+Foodly, kullanıcıların yemek aramalarını kolaylaştıran bir mobil uygulamadır.
 
-## Getting Started
+🚀 Özellikler
 
-This project is a starting point for a Flutter application.
+Kullanıcılar aradıkları yemek hakkında detaylı bilgiye ulaşabilir.
 
-A few resources to get you started if this is your first Flutter project:
+İstenirse yemekler favorilere eklenebilir veya favorilerden kaldırılabilir.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Search sayfası:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Popüler yemekler yatay scroll ile gösterilir.
+
+-Alt kısımda Türkiye’deki en popüler yemek listesi bulunur.
+
+Favoriler sekmesi:
+
+Kullanıcı favorilere eklediği yemekleri görebilir.
+
+Favorilerden yemek ekleyip çıkarma işlemleri yapılabilir.
+
+🛠️ Teknolojiler
+
+Flutter & Dart ile geliştirilmiştir.
+
+Firebase (NoSQL) kullanılarak veri tabanı yönetimi sağlanmıştır.
+
+Mobil uygulama için cross-platform desteği mevcuttur.
+
